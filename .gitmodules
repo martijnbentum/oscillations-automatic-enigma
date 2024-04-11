@@ -1,0 +1,3 @@
+[submodule "desrc"]
+	path = desrc
+	url = https://github.com/martijnbentum/DESRC.git
