@@ -1,8 +1,8 @@
+from desrc import load_eeg
+from desrc import read_xml as rx
 import librosa
-import load_eeg
 from matplotlib import pyplot as plt
 import numpy as np
-import read_xml as rx
 from scipy.signal import butter, filtfilt, hilbert
 
 
