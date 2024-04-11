@@ -1,5 +1,5 @@
-from desrc import load_eeg
-from desrc import read_xml as rx
+import load_eeg
+import read_xml as rx
 import librosa
 from matplotlib import pyplot as plt
 import numpy as np
